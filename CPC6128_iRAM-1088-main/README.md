@@ -1,6 +1,6 @@
 # iRAM/1088 - and internal RAM expansion for Amstrad CPC 6128 (upgrade to 1088K) 
 
-<img src="/pictures/iram1088a.jpg" width="400"/> <img src="/pictures/iram1088b.jpg" width="400"/>
+<img src="CPC6128_iRAM-1088-main/pictures/iram1088a.jpg" width="400"/>
 
 ## License
 
