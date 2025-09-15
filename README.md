@@ -1,4 +1,6 @@
 # iRAM/1088 - Expansión de RAM interna para Amstrad CPC 6128 (actualización a 1088K)
+
+
 Licencia
 La expansión y todos los recursos son de uso gratuito para uso personal.
 
